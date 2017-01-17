@@ -1,0 +1,13 @@
+/build/
+/target/
+/.externalToolBuilders/
+/.settings/
+/WebContent/
+/lucene/
+*.project
+*.classpath
+*.settings
+*.classes
+
+#Mac OSX
+.DS_Store
